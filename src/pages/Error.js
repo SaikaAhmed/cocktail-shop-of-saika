@@ -4,7 +4,7 @@ export default function Error() {
   return (
     <section className="error-page section">
       <div className="error-container">
-        <h1>oops! it's a dead page!</h1>
+        <h1>oops! You clicked an error page!</h1>
         <Link to="/" className="btn btn-primary">
           back home
         </Link>

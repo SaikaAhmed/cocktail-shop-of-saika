@@ -6,7 +6,8 @@ export default function About() {
       <h1 className="section-title">About Us</h1>
       <p>
         We provide best cocktail drinks in our town. You can easily take this drinks from our restaurant. Also you can share your feelings or thoughts about our service.
-      So, Enjoy your time with our cocktail!
+      So, Enjoy your time with our cocktail! Send me your feedback and any idea which helps to progress our service in our mail- saikaaridii@gmail.com.
+      
       </p>
     </section>
   );
